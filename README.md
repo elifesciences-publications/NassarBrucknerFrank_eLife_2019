@@ -1,5 +1,5 @@
 # NassarBrucknerFrank_eLife_2019
-Analysis code for: Nassar, Bruckner, Frank (2019) eLife
+Analysis code for: Nassar, Bruckner, Frank (2019) eLife, https://doi.org/10.7554/eLife.46975
 
 All scripts are meant to be run in matlab and seem to work in versions 2016b and 2018a. 
 
